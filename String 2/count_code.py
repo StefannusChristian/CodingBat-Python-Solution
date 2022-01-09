@@ -5,6 +5,3 @@ def count_code(string):
         if code[:2] == 'co' and code[-1] == 'e':
             count += 1
     return count
-
-
-print(count_code('aaacodebbb'))

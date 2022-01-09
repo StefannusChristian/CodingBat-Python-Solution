@@ -2,7 +2,6 @@ def round_sum(a, b, c):
     hasil = round10(a) + round10(b) + round10(c)
     return hasil
 
-
 def round10(num):
     num = str(num)
     if len(num) == 1:
@@ -47,6 +46,3 @@ def round10(num):
             return num
 
 
-print(round_sum(16, 17, 18))
-print(round_sum(12, 13, 14))
-print(round_sum(6, 4, 4))

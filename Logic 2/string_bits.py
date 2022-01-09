@@ -4,6 +4,4 @@ def string_bits(string):
     for i in diambil:
         hasil += string[i]
     return hasil
-
-
-print(string_bits('Hello'))
+    

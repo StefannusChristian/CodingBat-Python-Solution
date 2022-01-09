@@ -3,7 +3,6 @@ def front_back(string):
         return string
     if len(string) == 0:
         return ''
-
     string = [i for i in string]
     a = string[0]
     b = string[-1]

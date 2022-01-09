@@ -5,5 +5,4 @@ def combo_string(a, b):
     else:
         short = a
         long = b
-
     return short+long+short

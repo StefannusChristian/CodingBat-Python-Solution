@@ -10,8 +10,3 @@ def near_ten(num):
     if a[-1] == '0' or b[-1] == '0' or c[-1] == '0' or d[-1] == '0':
         return True
     return False
-
-
-print(near_ten(12))
-print(near_ten(17))
-print(near_ten(19))

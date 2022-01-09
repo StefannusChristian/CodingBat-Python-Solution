@@ -8,5 +8,4 @@ def sum67(arr):
             add = True
         elif add:
             count += i
-
     return count

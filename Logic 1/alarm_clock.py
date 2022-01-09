@@ -4,7 +4,6 @@ def weekday(n):
         return True
     return False
 
-
 def alarm_clock(day, vacation):
     day = weekday(day)
     if vacation:

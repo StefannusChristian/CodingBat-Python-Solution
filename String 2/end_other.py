@@ -12,5 +12,3 @@ def end_other(a, b):
             return True
     return False
 
-
-print(end_other('Hiabc', 'abc'))

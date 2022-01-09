@@ -6,7 +6,6 @@ def count_dog(string):
             count += 1
     return count
 
-
 def count_cat(string):
     n = len(string)
     count = 0
@@ -14,7 +13,6 @@ def count_cat(string):
         if string[i:i+3] == 'cat':
             count += 1
     return count
-
 
 def cat_dog(string):
     dog = count_dog(string)

@@ -8,8 +8,3 @@ def last2(string):
         if string[i] == b and string[i+1] == a:
             count += 1
     return count - 1
-
-
-print(last2('hixxhi'))
-print(last2('xaxxaxaxx'))
-print(last2('axxxaaxx'))

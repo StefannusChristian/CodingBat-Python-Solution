@@ -3,7 +3,3 @@ def love6(a, b):
         return True
     return False
 
-
-print(love6(6, 4))
-print(love6(4, 5))
-print(love6(1, 4))
