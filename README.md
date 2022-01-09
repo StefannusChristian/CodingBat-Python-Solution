@@ -1,2 +1,2 @@
-# CodingBat-Python-Solution
+# CodingBat Python Solution
 All my Python CodingBat Original Solutions
